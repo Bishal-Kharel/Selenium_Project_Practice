@@ -1,4 +1,4 @@
-# Selenium_Project
+# Selenium_Project_Practice
 
 A Python-based project to practice web automation using Selenium WebDriver. This project includes scripts for automating web page interactions, handling alerts, and working with web elements like drop-downs and buttons.
 
